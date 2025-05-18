@@ -8,7 +8,7 @@ On Linux/MacOS
 
 2. How to code python
 
-You don't :); Just be better at it, or read/reread https://www.w3schools.com/python/default.asp
+You don't :); Just be better at it, or read/reread https://www.w3schools.com/python and https://www.python.org/doc
 
 
 3. PEP 8 Style Guide for Python Code
