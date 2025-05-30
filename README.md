@@ -6,7 +6,7 @@ On Windows
 On Linux/MacOS
 ` pip list --outdated --format=freeze | grep -v '^\\-e' | cut -d = -f 1 | xargs -n1 pip install -U `
 
-2. How to code python
+2. How to be better at python
 
 You don't :); Just be better at it, or read/reread https://www.w3schools.com/python and https://www.python.org/doc
 
